@@ -10,3 +10,7 @@ For example, `./generateTPProject.sh 2` would generate a project folder called A
 
 ## Credits
 This project came in sequence to reading the instructions in [NIAEFEUP's cute-clion repo](https://github.com/NIAEFEUP/cute-clion). So, a shout-out to that repo for giving me the knowledge and idea to create this simple script :)
+
+## Version of used programs:
+ - CUTE Standalone v2.0.0
+ - CLion 2017.2.1
