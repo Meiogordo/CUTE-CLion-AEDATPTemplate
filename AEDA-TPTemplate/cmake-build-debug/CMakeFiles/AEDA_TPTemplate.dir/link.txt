@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AEDA_TPTemplate.dir/src/main.cpp.o  -o AEDA_TPTemplate 

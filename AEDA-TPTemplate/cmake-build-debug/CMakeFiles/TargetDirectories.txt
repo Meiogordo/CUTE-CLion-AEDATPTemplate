@@ -1,0 +1,3 @@
+/home/miguel/Programação MIEIC FEUP/AEDA/clion-projects/AEDA-TPTemplate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/miguel/Programação MIEIC FEUP/AEDA/clion-projects/AEDA-TPTemplate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/miguel/Programação MIEIC FEUP/AEDA/clion-projects/AEDA-TPTemplate/cmake-build-debug/CMakeFiles/AEDA_TPTemplate.dir
